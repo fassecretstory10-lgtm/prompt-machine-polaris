@@ -1,4 +1,5 @@
-import { useState, useRef, useEffect, Component } from "react";
+export default function App() {
+
 
 // ─── DATA ────────────────────────────────────────────────────────────────────
 
